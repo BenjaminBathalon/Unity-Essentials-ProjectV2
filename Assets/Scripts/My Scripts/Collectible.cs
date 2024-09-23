@@ -26,9 +26,9 @@ public class Collectible : MonoBehaviour
     Instantiate(onCollectEffect, transform.position, transform.rotation);
         }
 
-   if (Input.GetButtonDown("Jump")) {
-    rb.AddForce(Vector3.up * jumpForce, ForceMode.VelocityChange);
-}     
+  // if (Input.GetButtonDown("Jump")) {
+     //rb.AddForce(Vector3.up * jumpForce, ForceMode.VelocityChange);
+//}     
 }
 
 }
