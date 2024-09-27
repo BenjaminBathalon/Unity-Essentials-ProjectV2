@@ -6,25 +6,25 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu #0.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/Menu #0.unity
     guid: 92ac5a20bfd052140b5cb4427b563503
   - enabled: 1
-    path: Assets/Scenes/Playgrounds #1.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/Playgrounds #1.unity
     guid: 773c52e725667ec4e8392e7f145df79a
   - enabled: 1
-    path: Assets/Scenes/KidRoom #2.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/KidRoom #2.unity
     guid: 9be6954aa7512c3488a1deda4d07a024
   - enabled: 1
-    path: Assets/Scenes/Kitchen #3.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/Kitchen #3.unity
     guid: 5f7c4c72f88b84947abb8e0ad46ce518
   - enabled: 1
-    path: Assets/Scenes/LivingRoom #4.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/LivingRoom #4.unity
     guid: 826440a856e5b3a489994fdd451a28f6
   - enabled: 1
-    path: Assets/Scenes/TopDown-2D #5.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/TopDown-2D #5.unity
     guid: 059be80bf4d8e2141a40e18ba9d6fb15
   - enabled: 1
-    path: Assets/Scenes/Bonus #6.unity
+    path: Assets/Scenes (C'est ici qu'il faut venir)/Bonus #6.unity
     guid: 3e757fb660948b741a0f671e7e323db2
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
